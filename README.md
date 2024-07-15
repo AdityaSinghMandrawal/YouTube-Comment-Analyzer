@@ -28,13 +28,15 @@ You can customize the path to `stop_hinglish.txt` based on where you store it in
 
 ### Installation
 1. Repository:
+
    ```bash
    git clone https://github.com/AdityaSinghMandrawal/YouTube-Comment-Analyzer
-2. Install dependencies:
-  ```bash
-      pip install -r requirements.txt
-  ```
-3. Usage:
+3. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+5. Usage:
 
 - Replace `DEVELOPER_KEY` in `main.py` with your YouTube Data API key.
 - Set the `videoID` variable in `main.py` to the ID of the YouTube video you want to analyze.
