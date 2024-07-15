@@ -31,14 +31,14 @@ You can customize the path to `stop_hinglish.txt` based on where you store it in
    ```bash
    git clone https://github.com/AdityaSinghMandrawal/YouTube-Comment-Analyzer
 2. Install dependencies:
-```bash
+  ```bash
    pip install -r requirements.txt
-```
+  ```
 3. Usage:
 
 - Replace `DEVELOPER_KEY` in `main.py` with your YouTube Data API key.
 - Set the `videoID` variable in `main.py` to the ID of the YouTube video you want to analyze.
-- Run the script:
+- Run the script: [CommentAnalyzer.py](https://github.com/AdityaSinghMandrawal/YouTube-Comment-Analyzer/blob/main/commentAnalyzer2.py) 
 
   ```bash
    https://github.com/AdityaSinghMandrawal/YouTube-Comment-Analyzer/blob/main/commentAnalyzer2.py
