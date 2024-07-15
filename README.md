@@ -32,7 +32,7 @@ You can customize the path to `stop_hinglish.txt` based on where you store it in
    git clone https://github.com/AdityaSinghMandrawal/YouTube-Comment-Analyzer
 2. Install dependencies:
   ```bash
-   pip install -r requirements.txt
+      pip install -r requirements.txt
   ```
 3. Usage:
 
