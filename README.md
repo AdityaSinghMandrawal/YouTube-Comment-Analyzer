@@ -30,7 +30,6 @@ You can customize the path to `stop_hinglish.txt` based on where you store it in
 1. Repository:
    ```bash
    git clone https://github.com/AdityaSinghMandrawal/YouTube-Comment-Analyzer
-   cd YouTube-Comment-Analyzer
 2. Install dependencies:
 ```bash
    pip install -r requirements.txt
@@ -42,7 +41,7 @@ You can customize the path to `stop_hinglish.txt` based on where you store it in
 - Run the script:
 
   ```bash
-  python main.py
+   https://github.com/AdityaSinghMandrawal/YouTube-Comment-Analyzer/blob/main/commentAnalyzer2.py
   ```
 - The GUI window will display the video details, fetched comments count, and the top 20 most common word.
   
