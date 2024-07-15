@@ -8,6 +8,11 @@ YouTube Comment Analyzer is a Python application that fetches comments from a sp
 - Processes comments to identify and count the most common words.
 - Supports text processing for English, Hindi, and Hinglish comments by filtering out stopwords using NLTK.
 - Presents the analysis results in a GUI window with the video title, published date, and top 20 most common words.
+- Utilizes a list of stopwords from a text file for Hindi and Hinglish text processing
+  1. [stop_hinglish.txt](https://github.com/AdityaSinghMandrawal/YouTube-Comment-Analyzer/blob/main/stop_hinglish.txt).
+  2. [hindiStopWord.txt](https://github.com/AdityaSinghMandrawal/YouTube-Comment-Analyzer/blob/main/hindiStopWords.txt)
+
+You can customize the path to `stop_hinglish.txt` based on where you store it in your project repository.
 
 ## Technologies Used
 - Python
