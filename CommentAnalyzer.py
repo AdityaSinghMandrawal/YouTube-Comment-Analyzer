@@ -11,7 +11,7 @@ from collections import Counter
 # nltk.download('stopwords')
 
 # Replace with your actual API key
-DEVELOPER_KEY = "AIzaSyC8cgT4pOnPv0pb9z0EC7DfCS_qwQGd0Kg"
+DEVELOPER_KEY = "Paste your api key"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
